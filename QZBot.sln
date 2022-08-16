@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QZBot", "QZBot\QZBot.csproj", "{DAE5034E-CA88-4E80-90F3-DFA9D0210F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE5034E-CA88-4E80-90F3-DFA9D0210F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE5034E-CA88-4E80-90F3-DFA9D0210F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE5034E-CA88-4E80-90F3-DFA9D0210F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE5034E-CA88-4E80-90F3-DFA9D0210F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34A713D-D138-48E1-8098-395C2B7C1E3D}
+	EndGlobalSection
+EndGlobal
